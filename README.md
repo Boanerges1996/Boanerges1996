@@ -1,4 +1,4 @@
-### Hi there 👋, am [Samson Kwaku Nkrumah](boanerge.me)
+### Hi there 👋, am [Samson Kwaku Nkrumah](https://boanerge.me)
 
 
 ## I am a Student and a Full Stack Developer, that builds scalable application
