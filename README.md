@@ -43,4 +43,4 @@
 ---
 
 <img align="left" alt="Boanerges Github Stats" src="https://github-readme-stats.vercel.app/api?username=Boanerges1996&show_icons=true&count_private=true&theme=dark" />
-<img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Boanerges1996&show_icons=true&count_private=true&theme=dark" />
+
