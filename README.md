@@ -1,5 +1,10 @@
 ### Hi there 👋, am [Samson Kwaku Nkrumah](https://boanerge.me)
 
+[![Linkedin Badge](https://img.shields.io/badge/-%40boanerges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samson-kwaku-n-a47187104/)](https://www.linkedin.com/in/samson-kwaku-n-a47187104/) 
+[![Twitter Badge](https://img.shields.io/badge/-%40boanerges-yellow?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/samson_nkrumah)](https://twitter.com/samson_nkrumah) 
+[![Facebook Badge](https://img.shields.io/badge/-%40boanerges-blue?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/BoanergesNkrumah/)](https://www.facebook.com/BoanergesNkrumah/) 
+[![Instagram Badge](https://img.shields.io/badge/-%40boanerges-yellowgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/boanerges_skn/)](https://www.instagram.com/boanerges_skn/) 
+[![Stack_Overflow Badge](https://img.shields.io/badge/-%40boanerges-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/users/10388076/boanerges)](https://stackoverflow.com/users/10388076/boanerges) 
 
 ## I am a Student and a Full Stack Developer, that builds scalable application
 - 🔭 I’m currently working on a zomato clone project!
