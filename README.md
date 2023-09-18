@@ -52,7 +52,7 @@
 ---
 
 <a href="https://github.com/Boanerges1996">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Boanerges1996&include_all_commits=true&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Suraj's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Boanerges1996&include_all_commits=true&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Samson's github stats"/>
 </a>
 <a href="https://github.com/Boanerges1996">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boanerges1996&theme=light&layout=compact&langs_count=10&hide_langs_below=1" />
