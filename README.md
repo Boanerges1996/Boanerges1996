@@ -6,12 +6,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-%40boanerges-yellowgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/boanerges_skn/)](https://www.instagram.com/boanerges_skn/) 
 [![Stack_Overflow Badge](https://img.shields.io/badge/-%40boanerges-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/users/10388076/boanerges)](https://stackoverflow.com/users/10388076/boanerges) 
 
-## I am a Student and a Full Stack Developer, that builds scalable application
-- 🔭 I’m currently working on a zomato clone project!
-- 🌱 I’m currently learning everything WebRTC
+## I am a Software Engineer, who builds scalable applications.
+- 🔭 I’m currently working at Webrtc.ventures!
+- 🌱 I’m currently learning everything AI and ML
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2023 Goals: Build my AI/ML and Blockchain foundation
+- ⚡ Fun fact: I love to swim
 
 ### Connect with me:
 
